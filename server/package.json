@@ -6,7 +6,8 @@
   "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start-dev": "nodemon app.js"
+    "start-dev": "nodemon app.js",
+    "build": "npm i"
   },
   "author": "azra",
   "license": "ISC",
